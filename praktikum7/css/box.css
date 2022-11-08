@@ -1,0 +1,39 @@
+.utama{
+    margin: 5em;
+}
+.box1{
+    background-color: yellow;
+    float: left;
+    width: 18%;
+    height: 50em;
+    margin: 3em;
+    border: 2px solid;
+}
+
+.box2{
+    background-color: orangered;
+    float: left;
+    width: 18%;
+    height: 50em;
+    margin: 3em;
+    border: 2px solid;
+    border-radius: 1%;
+}
+
+.box3{
+    background-color: greenyellow;
+    float: left;
+    width: 18%;
+    height: 50em;
+    margin: 3em;
+    border: 2px solid;
+}
+
+.box4{
+    background-color: aqua;
+    float: left;
+    width: 18%;
+    height: 50em;
+    margin: 3em;
+    border: 2px solid;
+}

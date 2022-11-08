@@ -1,0 +1,46 @@
+.divutm{
+   padding: 3em;
+}
+
+.boxx1{
+    background-color: aquamarine;
+    height: 15em;
+    margin: 2px;
+    border: 2px solid;
+}
+
+.boxx2{
+    background-color: yellow;
+    float: left;
+    width: 20em;
+    height: 15em;
+    margin-top: 2em;
+    border: 2px solid;
+}
+
+.boxx3{
+    background-color: red;
+    float: right;
+    width: 85em;
+    height: 15em;
+    margin-top: 2em;
+    border: 2px solid;
+}
+
+.boxx4{
+    background-color: yellow;
+    float: left;
+    width: 20em;
+    height: 15em;
+    margin-top: 2em;
+    border: 2px solid;
+}
+
+.boxx5{
+    background-color: skyblue;
+    float: right;
+    width: 85em;
+    height: 15em;
+    margin-top: 2em;
+    border: 2px solid;
+}

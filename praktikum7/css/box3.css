@@ -1,0 +1,52 @@
+.bx1{
+    background-color: yellow;
+    float: left;
+    width: 20em;
+    height: 8em;
+    border: 2px solid;
+}
+
+.bx2{
+    margin-left: 1em;
+    background-color: red;
+    float: right;
+    width: 94em;
+    height: 8em;
+    border: 2px solid;
+}
+
+.bx3{
+    margin-top: 1em;
+    background-color: aquamarine;
+    float: left;
+    width: 20em;
+    height: 35em;
+    border: 2px solid;
+}
+
+.bx4{
+    background-color: grey;
+    float: left;
+    margin-left: 1.5em;
+    margin-top: 1em;
+    width: 72.5em;
+    height: 35em;
+    border: 2px solid;
+}
+
+.bx5{
+    background-color: skyblue;
+    float: right;
+    width: 20em;
+    height: 35em;
+    margin-top: 1em;
+    border: 2px solid;
+}
+
+.bx6{
+    background-color: blue;
+    margin-top: 1em;
+    width: 116em;
+    height: 5em;
+    float: left;
+}
